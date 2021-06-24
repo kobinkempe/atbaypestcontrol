@@ -10,6 +10,8 @@ If you want to test the app see https://stripe.com/docs/testing for some example
 
 The App is being buit in Expo/ReactNative with MVC architecture which will allow the client to modify db information. 
 
+Next steps include using Stripe customers to create recurring payments, creating some sort of tutorials for using the products, and deploying to iOS
+
 * DB: Firebase Realtime Database
 * Payment: Stripe
 * Expo Template: 'expo-template-tabs'
